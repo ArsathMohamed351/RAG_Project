@@ -10,4 +10,4 @@ wheels/
 .venv
 .git
 *.exe
-*.python-version
+.python-version
