@@ -1,3 +1,4 @@
+# this script generates a 100-page PDF report with fake sales data for testing purposes.
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, PageBreak
 )

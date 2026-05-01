@@ -1,3 +1,5 @@
+# just a TOML file
+
 [project]
 name = "rag"
 version = "0.1.0"
